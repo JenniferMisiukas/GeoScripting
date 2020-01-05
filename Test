@@ -1,3 +1,6 @@
 apples <- 5
 oranges <- 10
 fruits <- apples + oranges
+
+banana <- 12
+new_fruit <- fruits + banana
