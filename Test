@@ -1,0 +1,3 @@
+apples <- 5
+oranges <- 10
+fruits <- apples + oranges
